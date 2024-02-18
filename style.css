@@ -1,0 +1,8 @@
+.container-fluid{
+    width: 600px;
+}
+body{
+    background-image: url("https://stock.adobe.com/images/rain-on-the-tent-in-the-forest-tropic-quiet-calm-peaceful-meditation-camping-night-relax/568499083");
+
+    background-size: cover;
+}
