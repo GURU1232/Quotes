@@ -12,6 +12,7 @@ function getData(){
     .catch((error)=>{
         console.log(error);
     });
-
-    btn.addEventListener("click",getData);
 }
+    btn.addEventListener("click",getData);
+    getData();
+
